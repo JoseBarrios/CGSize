@@ -1,5 +1,5 @@
 {
-    "name": "CGSize",
+    "name": "cg-size",
     "version": "0.1.0",
     "description": "An object containing width and height values.",
     "main": "dist/index.min.js",
